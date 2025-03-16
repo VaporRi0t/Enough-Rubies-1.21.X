@@ -1,16 +1,30 @@
 {
   "item.enoughrubies.ruby": "Ruby",
 
+  "item.enoughrubies.heartstone_armor_trim_smithing_template": "Smithing Template",
+
   "item.enoughrubies.ruby_sword": "Ruby Sword",
   "item.enoughrubies.ruby_pickaxe": "Ruby Pickaxe",
   "item.enoughrubies.ruby_shovel": "Ruby Shovel",
   "item.enoughrubies.ruby_axe": "Ruby Axe",
   "item.enoughrubies.ruby_hoe": "Ruby Hoe",
 
+  "item.enoughrubies.ruby_hammer": "Ruby Hammer",
+  "item.enoughrubies.ruby_bow": "Ruby Bow",
+  "item.enoughrubies.ruby_chisel": "Ruby Chisel",
+
+  "item.enoughrubies.ruby_helmet": "Ruby Helmet",
+  "item.enoughrubies.ruby_chestplate": "Ruby Chestplate",
+  "item.enoughrubies.ruby_leggings": "Ruby Leggings",
+  "item.enoughrubies.ruby_boots": "Ruby Boots",
+
   "block.enoughrubies.ruby_block": "Block of Ruby",
   "block.enoughrubies.ruby_ore": "Ruby Ore",
   "block.enoughrubies.ruby_deepslate_ore": "Deepslate Ruby Ore",
 
   "itemgroup.enoughrubies.ruby_items": "Enough Rubies: Items",
-  "itemgroup.enoughrubies.ruby_blocks": "Enough Rubies: Blocks"
+  "itemgroup.enoughrubies.ruby_blocks": "Enough Rubies: Blocks",
+
+  "trim_material.enoughrubies.ruby": "Ruby Material",
+  "trim_pattern.enoughrubies.heartstone": "Heartstone Armor Trim"
 }

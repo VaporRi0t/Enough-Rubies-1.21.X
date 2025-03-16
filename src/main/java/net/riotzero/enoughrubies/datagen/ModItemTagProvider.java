@@ -31,5 +31,17 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
                 .add(ModItems.RUBY_AXE);
         getOrCreateTagBuilder(ItemTags.HOES)
                 .add(ModItems.RUBY_HOE);
+
+        getOrCreateTagBuilder(ItemTags.TRIMMABLE_ARMOR)
+                .add(ModItems.RUBY_HELMET)
+                .add(ModItems.RUBY_CHESTPLATE)
+                .add(ModItems.RUBY_LEGGINGS)
+                .add(ModItems.RUBY_BOOTS);
+
+        getOrCreateTagBuilder(ItemTags.TRIM_MATERIALS)
+                .add(ModItems.RUBY);
+
+        getOrCreateTagBuilder(ItemTags.TRIM_TEMPLATES)
+                .add(ModItems.HEARTSTONE_SMITHING_TEMPLATE);
     }
 }
