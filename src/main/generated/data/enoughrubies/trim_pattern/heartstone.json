@@ -1,0 +1,8 @@
+{
+  "asset_id": "enoughrubies:heartstone",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.enoughrubies.heartstone"
+  },
+  "template_item": "enoughrubies:heartstone_armor_trim_smithing_template"
+}

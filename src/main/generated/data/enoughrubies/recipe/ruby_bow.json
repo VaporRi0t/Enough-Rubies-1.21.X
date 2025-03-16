@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "item": "enoughrubies:ruby"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    " RW",
+    "S W",
+    " RW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "enoughrubies:ruby_bow"
+  }
+}

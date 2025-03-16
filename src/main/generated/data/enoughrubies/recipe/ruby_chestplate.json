@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "item": "enoughrubies:ruby"
+    }
+  },
+  "pattern": [
+    "R R",
+    "RRR",
+    "RRR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "enoughrubies:ruby_chestplate"
+  }
+}
