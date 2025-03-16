@@ -1,0 +1,16 @@
+{
+  "item.enoughrubies.ruby": "Ruby",
+
+  "item.enoughrubies.ruby_sword": "Ruby Sword",
+  "item.enoughrubies.ruby_pickaxe": "Ruby Pickaxe",
+  "item.enoughrubies.ruby_shovel": "Ruby Shovel",
+  "item.enoughrubies.ruby_axe": "Ruby Axe",
+  "item.enoughrubies.ruby_hoe": "Ruby Hoe",
+
+  "block.enoughrubies.ruby_block": "Block of Ruby",
+  "block.enoughrubies.ruby_ore": "Ruby Ore",
+  "block.enoughrubies.ruby_deepslate_ore": "Deepslate Ruby Ore",
+
+  "itemgroup.enoughrubies.ruby_items": "Enough Rubies: Items",
+  "itemgroup.enoughrubies.ruby_blocks": "Enough Rubies: Blocks"
+}

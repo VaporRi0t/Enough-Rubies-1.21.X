@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "enoughrubies",
+	"version": "${version}",
+	"name": "Enough Rubies",
+	"description": "Adds everything Ruby!",
+	"authors": [
+		"Ri0t"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/enoughrubies/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.riotzero.enoughrubies.EnoughRubies"
+		],
+		"fabric-datagen": [
+			"net.riotzero.enoughrubies.EnoughRubiesDataGenerator"
+		],
+		"client": [
+			"net.riotzero.enoughrubies.EnoughRubiesClient"
+		]
+	},
+	"mixins": [
+		"enoughrubies.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

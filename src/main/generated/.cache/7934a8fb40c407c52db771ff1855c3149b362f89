@@ -1,0 +1,4 @@
+// 1.21.1	2025-03-16T01:30:10.0685398	Enough Rubies/Block Loot Tables
+442460fd1a48497dee2f4b915eeb73e5888dc907 data\enoughrubies\loot_table\blocks\ruby_block.json
+3e8221e1a0d78863d8415f482fe8bd122de334fb data\enoughrubies\loot_table\blocks\ruby_deepslate_ore.json
+a8e48e7ee36b3dc07c65b1bfb3145602fde0495f data\enoughrubies\loot_table\blocks\ruby_ore.json
