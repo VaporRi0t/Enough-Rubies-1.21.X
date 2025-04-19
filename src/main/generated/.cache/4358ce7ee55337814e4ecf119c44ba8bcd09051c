@@ -1,10 +1,10 @@
-// 1.21.1	2025-03-16T16:31:00.1184172	Enough Rubies/Tags for minecraft:item
+// 1.21.1	2025-04-19T18:06:06.466589	Enough Rubies/Tags for minecraft:item
 cb34abc6b4bdd04b44614b585639ead024ac319f data\minecraft\tags\item\hoes.json
 eae224c9c87aa223c89605219a52af48365ad7b2 data\minecraft\tags\item\pickaxes.json
-7669f2b6c846c411dd768628f6a531607f247713 data\minecraft\tags\item\trimmable_armor.json
-7839f90de0cd1d17690309b19ab5221dee2e0190 data\enoughrubies\tags\item\transformable_items.json
-33ccc5494ae20497ac4ad8e55eb3bfaf6eb2440d data\minecraft\tags\item\shovels.json
-fbefa6adf00fd80d12836890a74d0cf6ed0927f5 data\minecraft\tags\item\trim_materials.json
 b37b4b45f1b941bfb711998a1fae466ecc446847 data\minecraft\tags\item\trim_templates.json
-ede4193324b67cde2195b95f9d2c0acbe16cd74e data\minecraft\tags\item\swords.json
+33ccc5494ae20497ac4ad8e55eb3bfaf6eb2440d data\minecraft\tags\item\shovels.json
+7839f90de0cd1d17690309b19ab5221dee2e0190 data\enoughrubies\tags\item\transformable_items.json
 bec946b148e4622eb7aeedea344948d64e511028 data\minecraft\tags\item\axes.json
+ede4193324b67cde2195b95f9d2c0acbe16cd74e data\minecraft\tags\item\swords.json
+fbefa6adf00fd80d12836890a74d0cf6ed0927f5 data\minecraft\tags\item\trim_materials.json
+7669f2b6c846c411dd768628f6a531607f247713 data\minecraft\tags\item\trimmable_armor.json
